@@ -6,7 +6,7 @@ const Choose = () => {
         <div className="choose">
             <main className="main">
                 <div className="car-image">
-                <img src={`{process.env.PUBLIC_URL}../images/car2.png`} alt="Exotic Car" />
+                <img src={`{process.env.PUBLIC_URL}/images/car2.png`} alt="Exotic Car" />
                 </div>
                 <div  className="choose-text">
                     <ul>
